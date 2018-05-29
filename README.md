@@ -1,0 +1,2 @@
+# XFormsInputTransparentIncosistency
+Repo demonstrating inconsistency in Xamarin.Forms InputTransparent property
